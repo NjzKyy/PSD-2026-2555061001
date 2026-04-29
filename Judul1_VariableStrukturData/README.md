@@ -134,6 +134,7 @@ Hapus → delete node
 Program ini mensimulasikan sistem nyata peminjaman buku
 
 # e.Link Youtube
+https://www.youtube.com/watch?v=6o1R3y9w6wQ
 
 
 
