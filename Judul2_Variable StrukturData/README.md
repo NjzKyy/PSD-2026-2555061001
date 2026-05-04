@@ -112,5 +112,5 @@ Informasi pengiriman tercepat dan terlama membantu analisis kinerja logistik
 
 Program mendukung pengambilan keputusan dalam optimasi distribusi barang
 # e.Link youtube
-
+https://youtu.be/RqBgsLaLY80?si=oUHFGoCNgTVZfi_L
 
