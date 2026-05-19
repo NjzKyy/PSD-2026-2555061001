@@ -32,3 +32,4 @@ Berdasarkan output program, sistem text editor sederhana berhasil menerapkan str
 Selain itu, fitur Redo juga berjalan dengan baik karena data hasil Undo disimpan sementara pada stack Redo. Program menunjukkan bahwa StackArray sangat cocok digunakan dalam sistem dunia nyata yang membutuhkan pengelolaan riwayat aksi, seperti aplikasi text editor, browser history, dan sistem navigasi aplikasi.
 
 # e. Link Youtube
+https://youtu.be/BCzmFO7JenU?si=folLxs_btAKpOna9
