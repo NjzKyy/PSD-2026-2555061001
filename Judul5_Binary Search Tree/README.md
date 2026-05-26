@@ -16,7 +16,7 @@ Selanjutnya program memiliki method search() yang digunakan untuk mencari data m
 
 Berdasarkan output program Binary Search Tree (BST) yang dijalankan, sistem berhasil menyimpan dan mengelola data mahasiswa berdasarkan NPM secara terstruktur. Data ditampilkan secara berurutan menggunakan metode inorder traversal, sehingga NPM mahasiswa muncul dari nilai terkecil hingga terbesar. Selain itu, proses pencarian data mahasiswa berdasarkan NPM juga berjalan dengan baik, di mana sistem dapat menemukan data yang dicari dengan lebih cepat dan efisien dibanding pencarian biasa. Hal ini menunjukkan bahwa Binary Search Tree sangat efektif digunakan dalam pengolahan dan pencarian data pada aplikasi dunia nyata seperti sistem akademik atau database mahasiswa.
 # e. Link Youtube
-
+https://youtu.be/rERd2eTtLJ0?si=mpIbFnKHl9zI0YF8
 
 
 
