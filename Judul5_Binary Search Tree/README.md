@@ -3,7 +3,10 @@
 Sistem Pencarian Data Mahasiswa
 # b. Deskripsi Singkat
 Binary Search Tree (BST) merupakan struktur data berbentuk pohon biner yang digunakan untuk menyimpan dan mencari data secara efisien. Pada BST, setiap node memiliki aturan bahwa nilai di sebelah kiri lebih kecil dari node induk, sedangkan nilai di sebelah kanan lebih besar. Dalam dunia nyata, BST sering digunakan pada sistem pencarian data seperti data mahasiswa, kontak telepon, database sederhana, dan sistem ranking karena mampu mempercepat proses pencarian, penambahan, serta pengurutan data secara otomatis.
-c. Source Code
+
+# c. Source Code
+screenshoot code
+
 <img width="636" height="825" alt="image" src="https://github.com/user-attachments/assets/e7afadd4-6509-400c-acf2-73d4a54963b3" />
 <img width="643" height="784" alt="image" src="https://github.com/user-attachments/assets/6616f7dc-10a1-49e2-afca-d737632efeba" />
 <img width="461" height="83" alt="image" src="https://github.com/user-attachments/assets/6c6d3337-8da2-477f-8bd2-72e82eea491d" />
