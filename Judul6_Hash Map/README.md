@@ -25,7 +25,7 @@ Pada menu ketiga, pengguna dapat menambahkan data reservasi baru dengan memasukk
 Output program menampilkan menu utama yang berisi pilihan untuk melihat data kamar, mencari data kamar, menambah reservasi, atau keluar dari program. Jika pengguna memilih melihat data kamar, program akan menampilkan seluruh informasi reservasi yang tersimpan, seperti nomor kamar, nama tamu, lama menginap, dan status reservasi. Jika memilih mencari data kamar, program akan menampilkan detail reservasi sesuai nomor kamar yang dimasukkan apabila data tersedia, atau memberikan pesan bahwa kamar tidak memiliki reservasi jika tidak ditemukan. Saat pengguna menambahkan reservasi baru, program akan menyimpan data yang dimasukkan dan menampilkan pesan bahwa reservasi berhasil ditambahkan. Program akan terus menampilkan menu hingga pengguna memilih opsi keluar, kemudian program menampilkan pesan bahwa program telah selesai dijalankan.
 
 # e. Link Youtube
-
+https://youtu.be/rERd2eTtLJ0?si=NEnug2ggerp7M9Vz
 
 
 
