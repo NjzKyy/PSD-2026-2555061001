@@ -10,6 +10,7 @@ screenshoot code
 <img width="636" height="825" alt="image" src="https://github.com/user-attachments/assets/e7afadd4-6509-400c-acf2-73d4a54963b3" />
 <img width="643" height="784" alt="image" src="https://github.com/user-attachments/assets/6616f7dc-10a1-49e2-afca-d737632efeba" />
 <img width="461" height="83" alt="image" src="https://github.com/user-attachments/assets/6c6d3337-8da2-477f-8bd2-72e82eea491d" />
+
 # Penjelasan Code
 Program dimulai dengan membuat class Node yang berfungsi sebagai tempat penyimpanan data mahasiswa berupa npm dan nama. Setiap node memiliki atribut left dan right untuk menghubungkan node di sebelah kiri dan kanan pada Binary Search Tree (BST). Setelah itu dibuat class BinarySearchTree yang memiliki atribut root sebagai akar pohon. Method insert() digunakan untuk memasukkan data mahasiswa ke dalam BST sesuai aturan BST, yaitu jika nilai npm lebih kecil dari node saat ini maka data ditempatkan di sebelah kiri, sedangkan jika lebih besar maka ditempatkan di sebelah kanan. Method tambah_mahasiswa() digunakan untuk mempermudah proses penambahan data ke dalam pohon.
 
